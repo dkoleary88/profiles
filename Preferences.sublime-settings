@@ -1,0 +1,35 @@
+{
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SublimeLinter/Tomorrow-Night (SL).tmTheme",
+	"default_line_ending": "unix",
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"fallback_encoding": "UTF-8",
+	"font_face": "consolas",
+	"font_size": 13,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"TrailingSpaces",
+		"Vintage"
+	],
+	"index_files": false,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"paths":
+	{
+		"osx":
+		[
+			"~/Projects/Go/bin/golint",
+			"/usr/local/bin/eslint"
+		]
+	},
+	"rulers":
+	[
+		80
+	],
+	"tab_size": 2,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
